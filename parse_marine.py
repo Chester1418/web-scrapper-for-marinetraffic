@@ -4,8 +4,6 @@ import time
 import urllib
 from datetime import datetime
 from random import randint
-import csv
-import psycopg2
 import requests
 from bs4 import BeautifulSoup
 from openpyxl import Workbook, load_workbook
